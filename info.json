@@ -1,17 +1,18 @@
 {
   "name": "spoilage-solution-boompuff-agriculture",
   "title": "Spoilage Solution for Boompuff Agriculture",
-  "description": "Adds spoilage solution support to Boompuff Agriculture.",
+  "description": "[DEPRECATED] Functionality migrated to Spoilage Solution and More.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
+    "space-age >= 2.0.77",
 
-    "boompuff-agriculture >= 1.1.0",
-    "spoilage-solution-fork >= 1.2.0",
-    "spoilage-solution-lib >= 1.1.0"
+    "khaoslib >= 1.15.0",
+
+    "spoilage-solution-and-more >= 1.0.0"
   ],
   "spoiling_required": true
 }
