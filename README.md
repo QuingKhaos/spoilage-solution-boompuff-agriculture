@@ -1,6 +1,6 @@
 [![The Foundry](https://img.shields.io/badge/foundrygg-4a1402?style=for-the-badge&logo=vercel&logoColor=white)](https://foundrygg.com/)
 [![Discord community](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SYmkaDjFCt)
 
-# [DEPRECATED] Spoilage Solution Tweaks
+# [DEPRECATED] Spoilage Solution for Boompuff Agriculture
 
 Functionality migrated to [Spoilage Solution and More](https://mods.factorio.com/mod/spoilage-solution-and-more).
